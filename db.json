@@ -1,8 +1,12 @@
 {
   "books": [
     {
-      "title": "The Terror",
+      "title": "The Terror 2",
       "id": 1
+    },
+    {
+      "title": "Starship Troopers",
+      "id": 2
     }
   ]
 }
